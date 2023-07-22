@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", sans-serif;
+}
+
+body{
+    margin: 0 8%;
+    margin-bottom: 1rem;
+}
+
+/* .homePage{
+    margin: 0 10%;
+} */
+
+h2{
+    margin: .5rem;
+}
